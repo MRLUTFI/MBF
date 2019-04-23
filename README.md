@@ -4,4 +4,4 @@
 
 Script Ini Recode dari MBF v1 by pirmansx
 
-dan penambahan fitur baru 
+Dan Kami Tambahkan 1 Fitur
