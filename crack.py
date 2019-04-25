@@ -309,7 +309,7 @@ def idteman():
 	else:
 		return menu()
 def menu():
-	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cMBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !cv2.5!k___\n\n !m» !bPembuat : pirmansx\n !m» !cPenyusun : Henrycko\n !m» !pPendukung : Dzakira Alzena Daiva\n !m* !phttps://github.com/Henrycko\n !m* !pGunakan Tools Dengan Bijak :) \n!k.======================.\n|!h  Ambil !mID!h Dari?...  !k|\n'======================'\n!k#!p1 !hDaftar Teman\n!k#!p2 !hAnggota Grup\n!k#!p3 !mKeluar...")
+	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cMBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !cv2.5!k___\n\n !m» !bPembuat : pirmansx\n !m» !cPenyusun : Henrycko\n !m» !pPendukung : Dzakira Alzena Daiva\n !m* !phttps://github.com/Henrycko\n !k.======================.\n|!h  Ambil !mID!h Dari?...  !k|\n'======================'\n!k#!p1 !hDaftar Teman\n!k#!p2 !hAnggota Grup\n!k#!p3 !mKeluar...")
 	i = inputM('[?] PILIH',[1,2,3])
 	if i == 2:
 		lanjutG()
